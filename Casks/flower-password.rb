@@ -12,6 +12,7 @@ cask "flower-password" do
     strategy :github_latest
   end
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "FlowerPassword.app"
