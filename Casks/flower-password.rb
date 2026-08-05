@@ -1,6 +1,6 @@
 cask "flower-password" do
-  version "1.2.2"
-  sha256 "5f05f58c67cbdee41ab00cb83329ac6f8dc8d7750a1f9f836f070947f0961bc5"
+  version "1.2.3"
+  sha256 "9c66e1cfa1bf33e9653c85379e8c9bd871ada455674556c0237a899466db7ac1"
 
   url "https://github.com/xlsdg/flower-password-swift/releases/download/v#{version}/FlowerPassword-#{version}.zip"
   name "FlowerPassword"
